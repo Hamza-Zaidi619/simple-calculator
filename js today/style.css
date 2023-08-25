@@ -1,0 +1,91 @@
+.main{
+	border: 2px solid black;
+	width: 250px;
+	background-color: whitesmoke;
+	margin: 0px auto;
+	border-radius: 10%;
+	padding: 10px;
+	height: ;
+}
+
+.clearBtn{
+	width: 100%;
+	margin-top: 4px;
+	border-radius: 20px;
+ padding: 8px;
+ font-size: 20px;
+ background-color: white;
+ border-color: #f44336;
+ border: 2px solid;
+ color: #f44336;
+ 
+}
+.clearBtn:hover{
+	background-color: #f44336;
+	color: white;
+}
+
+input{
+	box-sizing: border-box;
+	width: 100%;
+	margin-top: 2px;
+	margin: 0px auto;
+	border-radius: 10px;
+height: 35px;
+border: 2px solid rgba(167, 147, 147, 0.815);
+}
+input:focus{
+	border: 3px solid rgba(146, 32, 146, 0.568);
+	outline: none;
+
+}
+
+.btn{
+width: 55px;
+margin: 2px;
+border-radius: 12%;
+padding: 5px;
+margin-top: 3px;
+font-size: 20px;
+border-color: rgba(32, 178, 171, 0.562);
+color:rgba(32, 178, 171) ;
+background-color: white;
+border: 2px solid;
+
+}
+.btn:hover{
+	background-color: rgba(32, 178, 171, 0.562) ;
+	color: white;
+}
+button{
+background-color: rgba(190, 162, 162, 0.801);
+
+
+}
+
+.btn1{
+	text-align: center;
+}
+.halfBtn{
+	width: 70px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding: 5px;
+	border-radius: 12%;
+	margin-bottom: 3px;
+	margin-top: 1px;
+	font-size: 20px;
+	border-color: rgba(32, 178, 171, 0.562);
+color:rgba(32, 178, 171) ;
+background-color: white;
+border: 2px solid;
+
+
+}
+.halfBtn:hover{
+	background-color: rgba(32, 178, 171, 0.562); 
+	color: white;
+}
+.divs{
+	text-align: center;
+}
